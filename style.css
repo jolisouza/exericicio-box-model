@@ -1,3 +1,19 @@
 body{
     background-color: greenyellow;
 }
+
+h1{
+    background: black;
+    text-align: center;    
+    }
+    body {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    background: rgb(21, 152, 156);
+    color: #fff;
+    font-size: 1.2rem;
+    }
+    
+    p {
+    margin-top: 1.5rem;
+    background: rgb(12, 175, 26);}
